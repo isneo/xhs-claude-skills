@@ -1,7 +1,7 @@
 {
   "name": "rednote-to-obsidian",
   "description": "Extract RedNote (小红书) posts into concise Obsidian notes with video transcription",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "chenxiachan"
   },
