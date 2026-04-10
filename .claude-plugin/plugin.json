@@ -4,5 +4,11 @@
   "version": "1.0.0",
   "author": {
     "name": "chenxiachan"
-  }
+  },
+  "skills": [
+    "./skills/xhs",
+    "./skills/xhs-analyze",
+    "./skills/xhs-batch",
+    "./skills/xhs-cover"
+  ]
 }
