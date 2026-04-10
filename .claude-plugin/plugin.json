@@ -1,14 +1,10 @@
 {
   "name": "rednote-to-obsidian",
   "description": "Extract RedNote (小红书) posts into concise Obsidian notes with video transcription",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
-    "name": "chenxiachan"
+    "name": "isneo"
   },
-  "skills": [
-    "./skills/xhs",
-    "./skills/xhs-analyze",
-    "./skills/xhs-batch",
-    "./skills/xhs-cover"
-  ]
+  "repository": "https://github.com/isneo/xhs-claude-skills",
+  "keywords": ["xiaohongshu", "rednote", "obsidian", "markdown", "video-transcription"]
 }

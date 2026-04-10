@@ -8,7 +8,7 @@
     {
       "name": "rednote-to-obsidian",
       "description": "把小红书帖子变成简洁的 Obsidian 笔记，支持视频转录",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "source": {
         "source": "github",
         "repo": "isneo/xhs-claude-skills"
